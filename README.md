@@ -1,6 +1,6 @@
 # MyCleanApp (MCA)
 
-一个现代化的 Android 应用项目，采用 Clean Architecture 设计理念，使用 Kotlin 和 Gradle Kotlin DSL 构建。
+一个现代化的 Android 应用项目，采用 Clean Architecture 设计理念，使用 Java 和 Gradle Kotlin DSL 构建。
 
 ## 📋 目录
 
@@ -32,7 +32,7 @@
 
 | 技术 | 版本 | 说明 |
 |------|------|------|
-| **编程语言** | Kotlin | Android 官方推荐语言 |
+| **编程语言** | Java | Android 官方推荐语言 |
 | **Build 工具** | Gradle 9.4.1 | 使用官方 Gradle 包装器 |
 | **AGP** | 9.2.1 | Android Gradle Plugin |
 | **Compile SDK** | 36 | 基于 Android 15 |

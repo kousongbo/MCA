@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC Cleaner</string>
+    <string name="welcome">欢迎您，%s</string>
+    <string name="open_settings">打开设置</string>
+    <string name="about">关于</string>
+
+    <!-- 设置界面 -->
+    <string name="settings_title">设置</string>
+    <string name="language">语言</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="nickname">昵称</string>
+    <string name="save_settings">保存设置</string>
+
+    <!-- 选项 -->
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <string name="japanese">日本語</string>
+</resources>

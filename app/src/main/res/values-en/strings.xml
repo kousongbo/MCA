@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC Cleaner</string>
+    <string name="welcome">Welcome, %s</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="about">About</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="language">Language</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="nickname">Nickname</string>
+    <string name="save_settings">Save Settings</string>
+
+    <!-- Options -->
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <string name="japanese">日本語</string>
+</resources>
